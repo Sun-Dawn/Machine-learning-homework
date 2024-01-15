@@ -1,4 +1,4 @@
-# Read Me
+# README
 1.
 利用训练集和验证集数据训练LightGBM模型使用的参数为:
 params = {
